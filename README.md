@@ -22,7 +22,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções digitais de alto
 🔹 Manutenção de projetos e automações inteligentes (bots, funis de vendas, etc.)
 
 > 💼 Estamos prontos para assumir seu projeto e levá-lo a outro nível.  
-Entre em contato: **devloop.solucoes@gmail.com** ou via [WhatsApp](https://wa.me/5527999999999)
+Entre em contato: **sthevan.ssantos@gmail.com** ou via [WhatsApp](https://wa.me/5527988772784)
 
 ---
 
