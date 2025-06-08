@@ -46,9 +46,9 @@ Entre em contato: **devloop.solucoes@gmail.com** ou via [WhatsApp](https://wa.me
 
 ---
 
-💬 Me chama no WhatsApp: [Clique aqui](https://wa.me/5527999999999)  
-📧 E-mail: **devloop.solucoes@gmail.com**  
-🌐 Site/portfólio: [devloop.notion.site](https://devloop.notion.site)
+💬 Me chama no WhatsApp: [Clique aqui](https://wa.me/5527988772784)  
+📧 E-mail: **sthevan.ssantos@gmail.com**  
+🌐 Site/portfólio: fora do AR
 
 ---
 
