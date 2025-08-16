@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Sthevan</h1>
-<h3 align="center">CEO & Engenheiro de Software na DevLoop 🚀</h3>
+<h3 align="center">Dev FullStack & Engenheiro de Software </h3>
 
 ---
 
@@ -39,7 +39,7 @@ Entre em contato: **sthevan.ssantos@gmail.com** ou via [WhatsApp](https://wa.me/
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 
 ---
