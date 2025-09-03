@@ -1,62 +1,27 @@
-<h1 align="center">👋 Olá, eu sou o Sthevan</h1>
-<h3 align="center">Dev FullStack & Engenheiro de Software </h3>
+👋 Olá, eu sou o Sthevan | Engenheiro de Software & Full Stack Developer
 
----
+🧑‍💻 **Sobre mim**
+Apaixonado por tecnologia e movido por desafios, atuo como engenheiro de soluções com foco em React e TypeScript. Minha missão vai além de codificar: conecto estratégia e execução para transformar problemas complexos em produtos digitais robustos.
 
-🎯 <strong>Sobre mim</strong>  
-Sou um desenvolvedor Full Stack apaixonado por criar soluções digitais de alto impacto. Como fundador e CEO da [DevLoop](https://devloop.notion.site), ajudo empresas a evoluir digitalmente com sistemas seguros, escaláveis e criativos.
+🚀 **Stacks**
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg)
 
-- 🧠 Stack: **Node.js | React | TypeScript | MongoDB | Docker | CI/CD**
-- 🧰 Experiência com microserviços, segurança, performance e automações.
-- 🛡️ Foco em escalabilidade, qualidade e agilidade nas entregas.
-- 📈 Atuo como estrategista digital, cuidando desde o código até o resultado.
+🛠️ **O que eu faço**
+- Desenvolvimento de aplicativos e sistemas web modernos
+- Arquitetura de software com foco em escalabilidade e segurança
+- Automação e integrações inteligentes (APIs, bots, microserviços)
+- UX/UI integrado à performance real
+- Infraestrutura e DevOps (Docker, CI/CD, Railway, Vercel, GitHub Actions)
 
----
+📈 **Diferencial**
+Entrego mais que código: entrego resultado. Cada projeto é pensado como um ativo estratégico, alinhando tecnologia ao negócio para gerar valor real e mensurável.
 
-🚀 <strong>O que fazemos na DevLoop</strong>
-
-🔹 Desenvolvimento de sites e sistemas  
-🔹 Segurança digital para aplicações  
-🔹 UX/UI Design com identidade forte  
-🔹 Gestão de infraestrutura (CI/CD, Docker, Vercel, Railway)  
-🔹 Manutenção de projetos e automações inteligentes (bots, funis de vendas, etc.)
-
-> 💼 Estamos prontos para assumir seu projeto e levá-lo a outro nível.  
-Entre em contato: **sthevan.ssantos@gmail.com** ou via [WhatsApp](https://wa.me/5527988772784)
-
----
-
-🧰 <strong>Principais Tecnologias</strong>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-
----
-
-📈 <strong>Estatísticas</strong>
-
+📊 **Estatísticas**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthevan027&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthevan027&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sthevan027&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthevan027&layout=compact&theme=radical" width="48%">
 </p>
 
----
-
-💬 Me chama no WhatsApp: [Clique aqui](https://wa.me/5527988772784)  
-📧 E-mail: **sthevan.ssantos@gmail.com**  
-🌐 Site/portfólio: fora do AR
-
----
-
-⚡ *DevLoop – Do conceito ao código. Do código ao resultado.*
+📬 **Contato**
+✉️ [sthevan.dev@gmail.com](mailto:sthevan.dev@gmail.com)
+📱 [WhatsApp](https://wa.me/5561999999)
