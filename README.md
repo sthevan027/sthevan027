@@ -1,62 +1,65 @@
-<h1 align="center">👋 Olá, eu sou o Sthevan</h1>
-<h3 align="center">Dev FullStack & Engenheiro de Software </h3>
+# Sthevan Santos
+
+Full-stack developer building scalable and secure digital solutions. Focused on performance, automation and high-impact results.
+
+🌍 Based in Brazil  
+🚀 Founder & CEO of [DevLoop](https://wa.me/5527988772784)  
+⚡ Currently building **Micro SaaS & automation projects**  
+🛠️ Focused on **security, scalability and CI/CD**  
 
 ---
 
-🎯 <strong>Sobre mim</strong>  
-Sou um desenvolvedor Full Stack apaixonado por criar soluções digitais de alto impacto. Como fundador e CEO da [DevLoop](https://devloop.notion.site), ajudo empresas a evoluir digitalmente com sistemas seguros, escaláveis e criativos.
+### Contact
 
-- 🧠 Stack: **Node.js | React | TypeScript | MongoDB | Docker | CI/CD**
-- 🧰 Experiência com microserviços, segurança, performance e automações.
-- 🛡️ Foco em escalabilidade, qualidade e agilidade nas entregas.
-- 📈 Atuo como estrategista digital, cuidando desde o código até o resultado.
-
----
-
-🚀 <strong>O que fazemos na DevLoop</strong>
-
-🔹 Desenvolvimento de sites e sistemas  
-🔹 Segurança digital para aplicações  
-🔹 UX/UI Design com identidade forte  
-🔹 Gestão de infraestrutura (CI/CD, Docker, Vercel, Railway)  
-🔹 Manutenção de projetos e automações inteligentes (bots, funis de vendas, etc.)
-
-> 💼 Estamos prontos para assumir seu projeto e levá-lo a outro nível.  
-Entre em contato: **sthevan.ssantos@gmail.com** ou via [WhatsApp](https://wa.me/5527988772784)
-
----
-
-🧰 <strong>Principais Tecnologias</strong>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-
----
-
-📈 <strong>Estatísticas</strong>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthevan027&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthevan027&layout=compact&theme=radical" width="48%"/>
+<p align="left">
+  <a href="mailto:sthevan.ssantos@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20" alt="E-mail" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sthevan-santos-88a486286">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://wa.me/5527988772784">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20" height="20" alt="WhatsApp" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://github.com/sthevan027">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
 </p>
 
 ---
 
-💬 Me chama no WhatsApp: [Clique aqui](https://wa.me/5527988772784)  
-📧 E-mail: **sthevan.ssantos@gmail.com**  
-🌐 Site/portfólio: fora do AR
+### Skills
 
----
+### Skills
 
-⚡ *DevLoop – Do conceito ao código. Do código ao resultado.*
+<p align="left">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="20" height="20" alt="JavaScript" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="20" height="20" alt="TypeScript" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="20" height="20" alt="Python" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="20" height="20" alt="Java" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="20" height="20" alt="PHP" style="filter: grayscale(100%); opacity:0.7;"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" height="20" alt="Next.js" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="20" height="20" alt="Angular" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="20" height="20" alt="Vue.js" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="20" height="20" alt="HTML5" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="20" height="20" alt="CSS3" style="filter: grayscale(100%); opacity:0.7;"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="20" height="20" alt="Node.js" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" height="20" alt="Express" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="20" height="20" alt="Prisma" style="filter: grayscale(100%); opacity:0.7;"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="20" height="20" alt="MongoDB" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="20" height="20" alt="PostgreSQL" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" height="20" alt="SQLite" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20" alt="Firebase" style="filter: grayscale(100%); opacity:0.7;"/>
+
+  <!-- Infra & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20" height="20" alt="Docker" style="filter: grayscale(100%); opacity:0.7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" style="filter: grayscale(100%); opacity:0.7;"/>
+</p>
