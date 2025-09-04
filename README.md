@@ -29,9 +29,6 @@ Full-stack developer building scalable and secure digital solutions. Focused on 
 ---
 
 ### Skills
-
-### Skills
-
 <p align="left">
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="20" height="20" alt="JavaScript" style="filter: grayscale(100%); opacity:0.7;"/>
