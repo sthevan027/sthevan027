@@ -29,34 +29,93 @@ Full-stack developer building scalable and secure digital solutions. Focused on 
 ---
 
 ### Skills
+
 <p align="left">
   <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="20" height="20" alt="JavaScript" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="20" height="20" alt="TypeScript" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="20" height="20" alt="Python" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="20" height="20" alt="Java" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="20" height="20" alt="PHP" style="filter: grayscale(100%); opacity:0.7;"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="20" height="20" alt="JavaScript" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="20" height="20" alt="TypeScript" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="20" height="20" alt="Python" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://dev.java/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="20" height="20" alt="Java" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="20" height="20" alt="PHP" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+<a href="https://devdocs.io/c/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20" alt="C" style="filter: grayscale(100%); opacity:0.7;"/>
+</a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="20" height="20" alt="C++" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="20" height="20" alt="Go" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
 
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" height="20" alt="Next.js" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="20" height="20" alt="Angular" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="20" height="20" alt="Vue.js" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="20" height="20" alt="HTML5" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="20" height="20" alt="CSS3" style="filter: grayscale(100%); opacity:0.7;"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React Native" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" height="20" alt="Next.js" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="20" height="20" alt="Angular" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="20" height="20" alt="Vue.js" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="20" height="20" alt="HTML5" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="20" height="20" alt="CSS3" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" alt="TailwindCSS" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" height="20" alt="Flutter" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="20" height="20" alt="Node.js" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" height="20" alt="Express" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="20" height="20" alt="Prisma" style="filter: grayscale(100%); opacity:0.7;"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="20" height="20" alt="Node.js" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" height="20" alt="Express" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="20" height="20" alt="Prisma" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="20" height="20" alt="MongoDB" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="20" height="20" alt="PostgreSQL" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" height="20" alt="SQLite" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20" alt="Firebase" style="filter: grayscale(100%); opacity:0.7;"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="20" height="20" alt="MongoDB" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="20" height="20" alt="PostgreSQL" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" height="20" alt="SQLite" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20" alt="Firebase" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
 
   <!-- Infra & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20" height="20" alt="Docker" style="filter: grayscale(100%); opacity:0.7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" style="filter: grayscale(100%); opacity:0.7;"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20" height="20" alt="Docker" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" style="filter: grayscale(100%); opacity:0.7;"/>
+  </a>
 </p>
