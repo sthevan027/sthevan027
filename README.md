@@ -3,7 +3,7 @@
 Full-stack developer building scalable and secure digital solutions. Focused on performance, automation and high-impact results.
 
 🌍 Based in Brazil  
-🚀 Founder & CEO of [DevLoop](https://wa.me/5527988772784)  
+🚀 Founder & CEO of [Sthex Systems](https://wa.me/5527988772784)  
 ⚡ Currently building **Micro SaaS & automation projects**  
 🛠️ Focused on **security, scalability and CI/CD**  
 
