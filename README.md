@@ -50,6 +50,6 @@ Sou fundador da **Sthex Systems**, onde participo diretamente do desenvolvimento
 ---
 
 ## 📫 Contato
-- whatsapp: [https://wa.me/5527988772784?text=Oi%2C%20queria%20conhece%20mais%20sobre%20seus%20Projetos](Meu Numero).
-- LinkedIn: [https://www.linkedin.com/in/sthevan-santos/](sthevanssantos)
+- whatsapp: [Meu Numero](https://wa.me/5527988772784?text=Oi%2C%20queria%20conhece%20mais%20sobre%20seus%20Projetos).
+- LinkedIn: [sthevan-santos](https://www.linkedin.com/in/sthevan-santos/)
 - Email: sthevan.ssantos@gmail.com
