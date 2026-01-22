@@ -50,5 +50,5 @@ Sou fundador da **Sthex Systems**, onde participo diretamente do desenvolvimento
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/sthevan-santos-88a486286/
+- LinkedIn: https://www.linkedin.com/in/sthevan-santos/
 - Email: sthevan.ssantos@gmail.com
