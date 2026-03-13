@@ -29,26 +29,6 @@ Sou fundador da **Virex**, onde participo diretamente do desenvolvimento técnic
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 
-### Frontend
-- React • Next.js
-- Consumo de APIs REST
-- Componentização e gerenciamento de estado
-
-### Backend
-- Node.js • APIs REST
-- Lógica de negócio
-- Integrações entre sistemas
-
-### Banco de Dados
-- MongoDB • PostgreSQL
-
-### Ferramentas
-- Git & GitHub
-- Docker (inicial)
-- Arquitetura de sistemas
-- UX/UI aplicado
-- ERP, dashboards, automações
-
 ---
 
 ## 🚀 O que eu construo
