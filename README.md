@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Sthevan Santos
 
-### Engenheiro de Software Full Stack • Founder @ Virex
+### Engenheiro de Software Full Stack 
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=700&lines=Construindo+sistemas+que+viram+resultado;Arquitetura+limpa%2C+c%C3%B3digo+manuten%C3%ADvel+e+foco+no+neg%C3%B3cio;Frontend+e+Backend+com+vis%C3%A3o+de+produto" alt="Typing SVG" />
