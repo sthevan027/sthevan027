@@ -67,13 +67,11 @@ Como fundador da **Virex**, participo desde a estratégia técnica e modelagem d
 </div>
 
 ---
-
+<div align="center">
+  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5527988772784?text=Oi%2C%20queria%20conhecer%20mais%20sobre%20seus%20projetos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sthevan--santos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sthevan-santos/)
 [![Email](https://img.shields.io/badge/Email-sthevan.ssantos%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sthevan.ssantos@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sthevan027&color=blueviolet&style=flat-square" alt="Profile views" />
+ 
 </div>
+---
