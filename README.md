@@ -30,10 +30,10 @@ As the founder of **Virex**, I work across architecture, delivery, and continuou
 
 ## Highlights
 
-- **Portfolio (Next.js + TypeScript)**: `https://github.com/sthevan027/Portfolio`
-- **EletroLab (React + TypeScript)**: `https://github.com/sthevan027/EletroLab`
-- **gh-dev-analyzer (CLI)**: `https://github.com/sthevan027/gh-dev-analyzer`
-- **DraftVision (Python)**: `https://github.com/sthevan027/DraftVision`
+- **Portfolio (Next.js + TypeScript)**: [Open repository](https://github.com/sthevan027/Portfolio)
+- **EletroLab (React + TypeScript)**: [Open repository](https://github.com/sthevan027/EletroLab)
+- **gh-dev-analyzer (CLI)**: [Open repository](https://github.com/sthevan027/gh-dev-analyzer)
+- **DraftVision (Python)**: [Open repository](https://github.com/sthevan027/DraftVision)
 
 ---
 
