@@ -4,11 +4,7 @@
 
 ### Full-Stack Software Engineer
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Shipping+software+with+clarity+and+impact;Clean+architecture%2C+maintainable+code%2C+business+focus;Full+stack+engineering+with+a+product+mindset" alt="Typing SVG" />
-</p>
-
-[![GitHub followers](https://img.shields.io/github/followers/sthevan027?style=social)](https://github.com/sthevan027)
+[![GitHub](https://img.shields.io/github/followers/sthevan027?style=social)](https://github.com/sthevan027)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sthevan--santos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sthevan-santos/)
 [![Email](https://img.shields.io/badge/Email-sthevan.ssantos%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:sthevan.ssantos@gmail.com)
 
@@ -52,10 +48,5 @@ As the founder of **Virex**, I work across architecture, delivery, and continuou
 ## 📈 GitHub metrics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sthevan027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=sthevan027&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthevan027&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 </div>
