@@ -28,11 +28,6 @@ As the founder of **Virex**, I work across architecture, delivery, and continuou
 
 ---
 
-<<<<<<< HEAD
-## 🧠 Stack principal
-
-### Linguagens e ecossistema
-=======
 ## Highlights
 
 - **Portfolio (Next.js + TypeScript)**: `https://github.com/sthevan027/Portfolio`
@@ -43,7 +38,6 @@ As the founder of **Virex**, I work across architecture, delivery, and continuou
 ---
 
 ## Core stack
->>>>>>> 9ec00f1 (Rewrite profile README in English)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
