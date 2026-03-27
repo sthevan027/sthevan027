@@ -28,6 +28,17 @@ Como fundador da **Virex**, participo desde a estratégia técnica e modelagem d
 
 ---
 
+## ⭐ Projetos em destaque
+
+- **Portfolio (Next.js + TypeScript)**: vitrine unificada de projetos e contato — `https://github.com/sthevan027/Portfolio`
+- **gh-dev-analyzer (CLI)**: analisa perfis do GitHub e gera relatórios HTML — `https://github.com/sthevan027/gh-dev-analyzer`
+- **DraftVision (Python)**: análise de draft/partidas (LoL) — `https://github.com/sthevan027/DraftVision`
+- **EletroLab (TypeScript)**: sistema para laboratório de eletrônica — `https://github.com/sthevan027/EletroLab`
+
+> Se você chegou aqui avaliando engenharia, recomendo começar pelos repositórios acima: são os que melhor mostram design de produto, organização e entrega.
+
+---
+
 ## 🧠 Stack principal
 
 ### Linguagens e ecossistema
