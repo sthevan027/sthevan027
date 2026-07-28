@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I’m Sthevan Santos
+# 👋 Olá, sou Sthevan Santos
 
-### Full-Stack Software Engineer
+### Full-Stack Software Engineer · Founder @ Virex
 
 [![GitHub](https://img.shields.io/github/followers/sthevan027?style=social)](https://github.com/sthevan027)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sthevan--santos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sthevan-santos/)
@@ -12,28 +12,30 @@
 
 ---
 
-## About
+## Sobre
 
-I build end-to-end software with a product mindset — focused on **management systems**, **data-driven dashboards**, and **process automation**.
+Sou engenheiro de software full‑stack com foco em entregar soluções de alto impacto: sistemas de gestão, dashboards orientados a dados e automações de processos. Como fundador da Virex, atuo na arquitetura, entrega e melhoria contínua, sempre equilibrando:
 
-As the founder of **Virex**, I work across architecture, delivery, and continuous improvement, balancing:
+- Qualidade técnica (arquitetura limpa, manutenibilidade, escalabilidade)
+- Velocidade previsível de entrega
+- Impacto no negócio
 
-- **Engineering quality** (clean architecture, maintainability, scalability)
-- **Predictable delivery speed**
-- **Business impact**
-
----
-
-## Highlights
-
-- **Portfolio (Next.js + TypeScript)**: [Open repository](https://github.com/sthevan027/Portfolio)
-- **LaudoFácil (React + TypeScript)**: [Open repository](https://github.com/sthevan027/EletroLab)
-- **gh-dev-analyzer (CLI)**: [Open repository](https://github.com/sthevan027/gh-dev-analyzer)
-- **DraftVision (Python)**: [Open repository](https://github.com/sthevan027/DraftVision)
+Estou aberto a colaborações, consultas e oportunidades — envie uma mensagem no LinkedIn ou um e‑mail.
 
 ---
 
-## Core stack
+## Projetos em destaque
+
+- Portfolio (Next.js + TypeScript): [Repositório](https://github.com/sthevan027/Portfolio)
+- LaudoFácil (React + TypeScript): [Repositório](https://github.com/sthevan027/EletroLab)
+- gh-dev-analyzer (CLI): [Repositório](https://github.com/sthevan027/gh-dev-analyzer)
+- DraftVision (Python): [Repositório](https://github.com/sthevan027/DraftVision)
+
+Mais projetos no meu perfil — sinta‑se à vontade para explorar e abrir uma issue ou PR.
+
+---
+
+## Stack principal
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
@@ -45,7 +47,14 @@ As the founder of **Virex**, I work across architecture, delivery, and continuou
 
 ---
 
-## 📈 GitHub metrics
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/sthevan-santos/
+- E‑mail: sthevan.ssantos@gmail.com
+
+---
+
+## 📈 Métricas do GitHub
 
 <div align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=sthevan027&theme=tokyonight&hide_border=true" alt="GitHub streak" />
