@@ -26,12 +26,21 @@ Estou aberto a colaborações, consultas e oportunidades — envie uma mensagem 
 
 ## Projetos em destaque
 
-- Portfolio (Next.js + TypeScript): [Repositório](https://github.com/sthevan027/Portfolio)
-- LaudoFácil (React + TypeScript): [Repositório](https://github.com/sthevan027/EletroLab)
-- gh-dev-analyzer (CLI): [Repositório](https://github.com/sthevan027/gh-dev-analyzer)
-- DraftVision (Python): [Repositório](https://github.com/sthevan027/DraftVision)
+- Portfolio — TypeScript · Next.js  
+  ![stars](https://img.shields.io/github/stars/sthevan027/Portfolio?style=flat&logo=github) ![language](https://img.shields.io/github/languages/top/sthevan027/Portfolio?style=flat)  
+  Portfólio pessoal com projetos, currículo e página de contato. Status: ativo · Demo: https://portiflio-seven.vercel.app · [Repositório](https://github.com/sthevan027/Portfolio)
 
-Mais projetos no meu perfil — sinta‑se à vontade para explorar e abrir uma issue ou PR.
+- LaudoFácil — TypeScript · React  
+  ![stars](https://img.shields.io/github/stars/sthevan027/LaudoFacil?style=flat&logo=github) ![language](https://img.shields.io/github/languages/top/sthevan027/LaudoFacil?style=flat)  
+  Sistema para laboratório de eletrônica com geração de laudos e exportação em PDF. Status: ativo · Demo: https://eletro-lab.vercel.app · [Repositório](https://github.com/sthevan027/LaudoFacil)
+
+- DevRadar (CLI) — PowerShell  
+  ![stars](https://img.shields.io/github/stars/sthevan027/DevRadar?style=flat&logo=github) ![language](https://img.shields.io/github/languages/top/sthevan027/DevRadar?style=flat)  
+  Ferramenta CLI para analisar perfis do GitHub e gerar relatórios HTML com métricas e insights. Status: manutenção · [Repositório](https://github.com/sthevan027/DevRadar)
+
+- DraftVision — TypeScript  
+  ![stars](https://img.shields.io/github/stars/sthevan027/DraftVision?style=flat&logo=github) ![language](https://img.shields.io/github/languages/top/sthevan027/DraftVision?style=flat)  
+  Plataforma de análise de draft e partidas (LoL). Status: ativo · Demo: https://draft-vision.vercel.app · [Repositório](https://github.com/sthevan027/DraftVision)
 
 ---
 
