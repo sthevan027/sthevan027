@@ -12,7 +12,11 @@
 
 ---
 
+<div align="center">
+
 ## Sobre
+
+</div>
 
 Sou engenheiro de software full‑stack com foco em entregar soluções de alto impacto: sistemas de gestão, dashboards orientados a dados e automações de processos. Como fundador da Virex, atuo na arquitetura, entrega e melhoria contínua, sempre equilibrando:
 
@@ -24,9 +28,9 @@ Estou aberto a colaborações, consultas e oportunidades — envie uma mensagem 
 
 ---
 
-## 🛠️ Tech Arsenal
-
 <div align="center">
+
+## 🛠️ Tech Arsenal
 
 <table>
 <tr>
@@ -71,9 +75,9 @@ Estou aberto a colaborações, consultas e oportunidades — envie uma mensagem 
 
 ---
 
-## Contato
-
 <div align="center">
+
+## Contato
 
 <a href="https://www.linkedin.com/in/sthevan-santos/">
   <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A0A0A" alt="LinkedIn" />
@@ -101,9 +105,9 @@ Estou aberto a colaborações, consultas e oportunidades — envie uma mensagem 
 
 ---
 
-## 📈 Métricas do GitHub
-
 <div align="center">
+
+## 📈 Métricas do GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sthevan027&theme=tokyonight&hide_border=true" />
@@ -125,9 +129,9 @@ Estou aberto a colaborações, consultas e oportunidades — envie uma mensagem 
 
 ---
 
-## 🐍 Contribuições
-
 <div align="center">
+
+## 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sthevan027/sthevan027/output/snake-dark.svg" />
