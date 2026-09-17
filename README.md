@@ -56,8 +56,29 @@ const sthevan = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,mongodb,sqlite,supabase,docker,git,vscode,vercel,github&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,mongodb,sqlite,supabase,docker,git,vscode,vercel,github&theme=light" alt="Tech stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,cs,rust,html,bash,powershell&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,rust,html,bash,powershell&theme=light&perline=9" alt="Linguagens" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,dotnet&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,dotnet&theme=light&perline=9" alt="Frameworks e runtimes" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,sqlite,supabase&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,supabase&theme=light&perline=9" alt="Bancos de dados" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,pnpm&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,pnpm&theme=light&perline=9" alt="Ferramentas" />
   </picture>
 </p>
 
