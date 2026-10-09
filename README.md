@@ -33,19 +33,66 @@ const sthevan = {
 
 ---
 
-### 📦 Apps & Projetos
+### 🚀 Produtos
 
-| | Projeto | Descrição | ⭐ |
-|---|---|---|:---:|
-| [![Release](https://img.shields.io/badge/Release-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/focusbrew/releases/latest) | **[focusbrew](https://github.com/sthevan027/focusbrew)** | App de bandeja que percebe quando você está programando com IA, liga o modo foco e reúne tarefas, PRs do GitHub e um timer com pausa-café | 3 |
-| [![Release](https://img.shields.io/badge/Release-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/gnome-pr-indicator/releases/latest) | **[gnome-pr-indicator](https://github.com/sthevan027/gnome-pr-indicator)** | Extensão do GNOME Shell com indicador na barra superior mostrando PRs esperando sua revisão | 3 |
-| [![Site](https://img.shields.io/badge/Site-0A66C2?style=flat&logo=vercel&logoColor=white)](https://meu-salario-lime.vercel.app) | **[MeuSalario](https://github.com/sthevan027/MeuSalario)** | Simulador e comparador de salário CLT vs PJ/MEI com cálculo de INSS/IRRF | 1 |
-| [![Release](https://img.shields.io/badge/Release-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/organizador/releases/latest) | **[organizador](https://github.com/sthevan027/organizador)** | Organizador de arquivos com limpeza de disco integrada — GUI CustomTkinter | 1 |
-| [![Release](https://img.shields.io/badge/Release-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/LaudoFacil/releases/latest) | **[LaudoFacil](https://github.com/sthevan027/LaudoFacil)** | Sistema para laboratório de eletrônica | 1 |
-| [![Release](https://img.shields.io/badge/Release-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/pacer/releases/latest) | **[pacer](https://github.com/sthevan027/pacer)** | Widget para Windows que mostra o uso do seu plano Claude — Tauri + Rust + React | 0 |
-| [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/DevRadar) | **[DevRadar](https://github.com/sthevan027/DevRadar)** | CLI para analisar perfis do GitHub e gerar relatório HTML com métricas e insights | 0 |
-| [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/Analisado-de-Contratos) | **[Analisado-de-Contratos](https://github.com/sthevan027/Analisado-de-Contratos)** | Dashboard financeiro local (Flask + Chart.js) a partir de planilhas orçamentárias de contrato | 0 |
-| [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/Analise_Medicao) | **[Analise_Medicao](https://github.com/sthevan027/Analise_Medicao)** | Pipeline Python que automatiza a medição mensal das Usinas via OCR de tíquetes de balança | 0 |
+Ferramentas nativas pra desenvolvedor, prontas pra instalar — não são protótipo, são apps empacotados com release ativo. Acompanho o progresso delas no [devlog (mypage)](https://github.com/sthevan027/mypage).
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[⚡ pacer](https://github.com/sthevan027/pacer)**
+
+Widget pra Windows que mostra o uso do seu plano Claude e, pelo ritmo atual, pra onde ele te leva antes do reset.
+
+`Tauri` `Rust` `React`
+
+![Windows](https://img.shields.io/badge/Windows-0A66C2?style=flat&logo=windows&logoColor=white)
+[![Download](https://img.shields.io/github/v/release/sthevan027/pacer?label=Download&color=0A66C2&logo=windows&logoColor=white)](https://github.com/sthevan027/pacer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/sthevan027/pacer/total?label=downloads&color=0A66C2)](https://github.com/sthevan027/pacer/releases)
+
+</td>
+<td width="33%" valign="top">
+
+**[🧠 focusbrew](https://github.com/sthevan027/focusbrew)**
+
+Percebe quando você tá programando com IA, liga modo foco (bloqueia distração, ativa Não Perturbe) e junta tarefas, PRs e timer.
+
+`TypeScript` `Tray app`
+
+![Windows](https://img.shields.io/badge/Windows-0A66C2?style=flat&logo=windows&logoColor=white)
+[![Download](https://img.shields.io/github/v/release/sthevan027/focusbrew?label=Download&color=0A66C2&logo=windows&logoColor=white)](https://github.com/sthevan027/focusbrew/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/sthevan027/focusbrew/total?label=downloads&color=0A66C2)](https://github.com/sthevan027/focusbrew/releases)
+
+</td>
+<td width="33%" valign="top">
+
+**[🧹 organizador](https://github.com/sthevan027/organizador)**
+
+Organiza arquivos por tipo/extensão com limpeza integrada de temp, cache, lixeira e downloads parados.
+
+`Python` `CustomTkinter`
+
+![Windows](https://img.shields.io/badge/Windows-0A66C2?style=flat&logo=windows&logoColor=white)
+[![Download](https://img.shields.io/github/v/release/sthevan027/organizador?label=Download&color=0A66C2&logo=windows&logoColor=white)](https://github.com/sthevan027/organizador/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/sthevan027/organizador/total?label=downloads&color=0A66C2)](https://github.com/sthevan027/organizador/releases)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📦 Outros projetos
+
+| Projeto | Descrição | ⭐ |
+|---|---|:---:|
+| **[gnome-pr-indicator](https://github.com/sthevan027/gnome-pr-indicator)** | Extensão do GNOME Shell com indicador na barra superior mostrando PRs esperando sua revisão | 3 |
+| **[MeuSalario](https://github.com/sthevan027/MeuSalario)** | Simulador e comparador de salário CLT vs PJ/MEI com cálculo de INSS/IRRF | 1 |
+| **[LaudoFacil](https://github.com/sthevan027/LaudoFacil)** | Sistema para laboratório de eletrônica | 1 |
+| **[DevRadar](https://github.com/sthevan027/DevRadar)** | CLI para analisar perfis do GitHub e gerar relatório HTML com métricas e insights | 0 |
+| **[Analisado-de-Contratos](https://github.com/sthevan027/Analisado-de-Contratos)** | Dashboard financeiro local (Flask + Chart.js) a partir de planilhas orçamentárias de contrato | 0 |
+| **[Analise_Medicao](https://github.com/sthevan027/Analise_Medicao)** | Pipeline Python que automatiza a medição mensal das Usinas via OCR de tíquetes de balança | 0 |
 
 ---
 
