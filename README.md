@@ -100,13 +100,13 @@ const sthevan = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sthevan027&theme=tokyo-night&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sthevan027&theme=minimal&hide_border=true" alt="Gráfico de atividade" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=sthevan027&theme=tokyo-night&hide_border=true" />
+    <img src="https://github-activity-graph.vercel.app/graph?username=sthevan027&theme=minimal&hide_border=true" alt="Gráfico de atividade" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sthevan027&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus do GitHub" />
+  <img src="https://github-trophies.vercel.app/?username=sthevan027&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus do GitHub" />
 </p>
 
 <p align="center">
@@ -114,4 +114,14 @@ const sthevan = {
   <img src="https://img.shields.io/github/followers/sthevan027?label=SEGUIDORES&style=flat&color=0A66C2" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/sthevan027?label=STARS&style=flat&color=0A66C2&affiliations=OWNER" alt="Stars" />
 </p>
+
+---
+
+<div align="center">
+
+### 📅 Gráfico de Contribuições
+
+<img src="https://ghchart.rshah.org/0A66C2/sthevan027" alt="Gráfico de contribuições do GitHub" />
+
+</div>
 
