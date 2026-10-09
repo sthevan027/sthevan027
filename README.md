@@ -99,13 +99,6 @@ const sthevan = {
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=sthevan027&theme=tokyo-night&hide_border=true" />
-    <img src="https://github-activity-graph.vercel.app/graph?username=sthevan027&theme=minimal&hide_border=true" alt="Gráfico de atividade" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://github-trophies.vercel.app/?username=sthevan027&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus do GitHub" />
 </p>
 
@@ -121,7 +114,7 @@ const sthevan = {
 
 ### 📅 Gráfico de Contribuições
 
-<img src="https://ghchart.rshah.org/0A66C2/sthevan027" alt="Gráfico de contribuições do GitHub" />
+<img src="https://gh.ruu.by/api/github-contributions/sthevan027?months=12&boxSize=11&boxSpacing=3&borderRadius=2&backgroundColor=%230d1117&inactiveColor=%23161b22&minActivityColor=%230a3069&maxActivityColor=%2358a6ff&showLabels=true&labelColor=%2358a6ff" alt="Gráfico de contribuições do GitHub" />
 
 </div>
 
