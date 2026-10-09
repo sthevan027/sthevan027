@@ -45,6 +45,7 @@ const sthevan = {
 | [![Release](https://img.shields.io/badge/Release-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/pacer/releases/latest) | **[pacer](https://github.com/sthevan027/pacer)** | Widget para Windows que mostra o uso do seu plano Claude — Tauri + Rust + React | 0 |
 | [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/DevRadar) | **[DevRadar](https://github.com/sthevan027/DevRadar)** | CLI para analisar perfis do GitHub e gerar relatório HTML com métricas e insights | 0 |
 | [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/Analisado-de-Contratos) | **[Analisado-de-Contratos](https://github.com/sthevan027/Analisado-de-Contratos)** | Dashboard financeiro local (Flask + Chart.js) a partir de planilhas orçamentárias de contrato | 0 |
+| [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/sthevan027/Analise_Medicao) | **[Analise_Medicao](https://github.com/sthevan027/Analise_Medicao)** | Pipeline Python que automatiza a medição mensal das Usinas via OCR de tíquetes de balança | 0 |
 
 ---
 
