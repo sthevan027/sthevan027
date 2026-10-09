@@ -72,6 +72,7 @@ const sthevan = {
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><img width="48" height="48" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel&theme=dark" /><img width="48" height="48" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pnpm&theme=dark" /><img width="48" height="48" src="https://skillicons.dev/icons?i=pnpm&theme=light" alt="pnpm" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bun&theme=dark" /><img width="48" height="48" src="https://skillicons.dev/icons?i=bun&theme=light" alt="Bun" /></picture>
   <img width="48" height="48" src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
@@ -114,16 +115,3 @@ const sthevan = {
   <img src="https://img.shields.io/github/stars/sthevan027?label=STARS&style=flat&color=0A66C2&affiliations=OWNER" alt="Stars" />
 </p>
 
----
-
-<div align="center">
-
-### 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sthevan027/sthevan027/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sthevan027/sthevan027/output/snake.svg" />
-  <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/sthevan027/sthevan027/output/snake.svg" />
-</picture>
-
-</div>
